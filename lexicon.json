@@ -1,0 +1,1308 @@
+[
+  {
+    "headword": " bookbinder",
+    "domains": [
+      "book",
+      "bind",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "bibliopegus",
+        "macronized": "bibliopegus",
+        "grammar": "-ī, m.",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "libri compactor",
+        "macronized": "librī compāctor",
+        "grammar": "gen.: [librī] compāctōris, m. ",
+        "citation": "",
+        "notes": "v. librorum"
+      },
+      {
+        "latin": "librarius glutinator",
+        "macronized": "librārius glūtinātor",
+        "grammar": "gen.: librāriī glūtinātōris, m. ",
+        "citation": "1540 VIVES Exer. 341",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "cloth-bound",
+    "domains": [
+      "book",
+      "bind",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "panno tectus",
+        "macronized": "pannō tectus",
+        "grammar": "[pannō] , -a, -um",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "hard-bound, hardcover",
+    "domains": [
+      "book",
+      "bind",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "tegumento rigido",
+        "macronized": "tegumentō rigidō",
+        "grammar": "",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "leather-bound",
+    "domains": [
+      "book",
+      "bind",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "corio tectus",
+        "macronized": "coriō tectus",
+        "grammar": "[coriō] , -a, -um",
+        "citation": "1540 VIVES Exer. 340: liber est expolitus, tectus corio",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "bookstore",
+    "domains": [
+      "book",
+      "bookstore ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "bibliopôlium",
+        "macronized": "bibliopōlium",
+        "grammar": "-ī, n.",
+        "citation": "HOVEN",
+        "notes": ""
+      },
+      {
+        "latin": "taberna libraria",
+        "macronized": "taberna librāria",
+        "grammar": "",
+        "citation": "CIC. Phil. 2, 9, 21",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "bookseller",
+    "domains": [
+      "book",
+      "bookstore ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "bibliopola",
+        "macronized": "bibliopōla",
+        "grammar": "-ae, m.",
+        "citation": "PLIN.; MART.; 1843 TRAPPEN 30",
+        "notes": ""
+      },
+      {
+        "latin": "librarius",
+        "macronized": "librārius",
+        "grammar": "-ī, m.",
+        "citation": "SEN.; Gell.",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "brochure, pamphlet",
+    "domains": [
+      "book",
+      "brochure",
+      ""
+    ],
+    "terms": []
+  },
+  {
+    "headword": "leaflet",
+    "domains": [
+      "book",
+      "brochure ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "folium plicatile",
+        "macronized": "folium plicātile",
+        "grammar": "gen.: foliī, n., plicātilis",
+        "citation": "",
+        "notes": "cf. Fr. dépliant"
+      }
+    ]
+  },
+  {
+    "headword": "censure (e.g., a book, film, author)",
+    "domains": [
+      "book",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "censura afficere",
+        "macronized": "censūra afficere",
+        "grammar": "[censūra] , affēcī, affectus",
+        "citation": "1652 TURS. 338: origo huius velitationis ex libris censura affectis",
+        "notes": ""
+      },
+      {
+        "latin": "censura notare",
+        "macronized": "censūrā notāre",
+        "grammar": "",
+        "citation": "1652 TURS. 342: Emundus Richer, qui ob libellum de ecclesiastica et politica potestate censura notatus fuerat; 356: duo libri ... gravi censura notati sunt",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "dedicate",
+    "domains": [
+      "book",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "nuncupare",
+        "macronized": "nuncupāre",
+        "grammar": ", -āvī, ātus ",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "dedicare",
+        "macronized": "dēdicāre",
+        "grammar": ", -āvī, -atus ",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "dedication (in book)",
+    "domains": [
+      "book",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "nuncupatio",
+        "macronized": "nuncupātiō",
+        "grammar": "-ōnis, f.",
+        "citation": "PLIN.",
+        "notes": ""
+      },
+      {
+        "latin": "dedicatio",
+        "macronized": "dēdicātiō",
+        "grammar": "-ōnis, f.",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "nuncupatura",
+        "macronized": "nuncupātūra",
+        "grammar": "-ae, f.",
+        "citation": "HOVEN",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "encyclopedia",
+    "domains": [
+      "book",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "libri encyclopaedici",
+        "macronized": "librī encyclopaedicī",
+        "grammar": "",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "encyclopaedia",
+        "macronized": "encyclopaedia",
+        "grammar": "-ae, f.",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "font, typeface",
+    "domains": [
+      "book",
+      "font",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "typorum series",
+        "macronized": "typōrum series",
+        "grammar": "gen.: [typōrum] serieī, f. ",
+        "citation": "",
+        "notes": "v. formularum; v. genus"
+      },
+      {
+        "latin": "character",
+        "macronized": "charactēr",
+        "grammar": "-ēris, m.",
+        "citation": "1672 FRISIUS v: Citata auctorum nomina et loca, quae nullo antea discrimine cernebantur, suis singula notis, et diversitate characteris ab ipso textu secrevimus.",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "font style",
+    "domains": [
+      "book",
+      "font",
+      ""
+    ],
+    "terms": []
+  },
+  {
+    "headword": " folio",
+    "domains": [
+      "book",
+      "format",
+      ""
+    ],
+    "terms": []
+  },
+  {
+    "headword": "octavo",
+    "domains": [
+      "book",
+      "format",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "liber in forma octava editus",
+        "macronized": "liber in formā octāvā editus",
+        "grammar": "[liber in formā octāvā] , -a, -um",
+        "citation": "cf. Ducrue 220",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "quarto",
+    "domains": [
+      "book",
+      "format",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "liber in forma quarta editus",
+        "macronized": "liber in formā quārtā editus",
+        "grammar": "[liber in formā quārtā], -a, -um",
+        "citation": "1784 DUCRUE 220",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "illustration",
+    "domains": [
+      "book",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "icon",
+        "macronized": "īcon",
+        "grammar": "-is, f.",
+        "citation": " 1794 RUIZ title page; 1798 DESFONTAINES v: Synonyma auctorum adieci qui iconibus aut descriptionibus rem herbariam illustrarunt; 1811 PALLAS xii.",
+        "notes": "especially of a realistic, precisely drawn representation, as images of plants in botanical works"
+      },
+      {
+        "latin": "figura",
+        "macronized": "figūra",
+        "grammar": "-ae, f.",
+        "citation": "1672 FRISIUS v-vi, on the celebrated woodcuts illustrating Mercuriale's De arte gymnastica: Ad figuras quidem ipsas quod attinet, non alias hîc tibi et publico offerimus quam quas insignis antiquiarius Pyrrhus Ligorius Mercuriali obtulit, maximorum curâ artificum designatas, et ... non sine maximis impensis ligno insculptas. Et harum quidem figurarum ut non leve artificium est, ita sors quoque minime vulgaris semper fuit. Etenim non paucos ... videre mihi contigit, qui linguae Latinae rudes, hôc solo figurarum artificio ducti, hunc librum avide et ambabus quod aiunt manibus venerabundi exciperent.",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "incunabula",
+    "domains": [
+      "book",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "specimina artis typographicae primordialis",
+        "macronized": "specimina artis typographicae primordiālis",
+        "grammar": "",
+        "citation": "",
+        "notes": "v. primaeva, v. primigenia"
+      },
+      {
+        "latin": "primordialia artis typographicae specimina, artis typographicae velut incunabulorum specimina",
+        "macronized": "primordiālia artis typographicae specimina, artis typographicae velut incunabulōrum specimina",
+        "grammar": "",
+        "citation": "",
+        "notes": "v. primaeva, v. primigenia; Cf. EGGER R.A. 142: huc accedunt amplius octo milia 'incunabulorum' artis typographicae."
+      }
+    ]
+  },
+  {
+    "headword": "introduction (to a book)",
+    "domains": [
+      "",
+      "introduction ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "prodromus ",
+        "macronized": "prōdromus ",
+        "grammar": "-ī, n. ",
+        "citation": "1810 BROWN vi: in prodromo operis futuri.;  1794 RUIZ xviii: Novorum generum volumen, veluti totius operis prodromum, praemittendum e re duximus.",
+        "notes": "of an entire book, as introducing a complex subject or a larger work"
+      }
+    ]
+  },
+  {
+    "headword": "preface",
+    "domains": [
+      "book",
+      "introduction ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "praefatio",
+        "macronized": "praefātiō",
+        "grammar": "-ōnis, f.",
+        "citation": "Plin.; Quint.",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "manuscript",
+    "domains": [
+      "book",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "liber manu scriptus",
+        "macronized": "liber manū scriptus",
+        "grammar": "gen.: librī, m., [manū] scriptī",
+        "citation": "Gesenius xii.",
+        "notes": ""
+      },
+      {
+        "latin": "exemplar manu scriptum",
+        "macronized": "exemplar manū scriptus",
+        "grammar": "gen.: exemplāris, n., [manū] scriptī",
+        "citation": "Septuagint, \"Praef.\"",
+        "notes": ""
+      },
+      {
+        "latin": "codex manu scriptus",
+        "macronized": "cōdex manū scriptus",
+        "grammar": "gen.: cōdicis, m., [manu] scriptī",
+        "citation": "Septuagint, \"Praef.\"",
+        "notes": ""
+      },
+      {
+        "latin": "manuscriptum",
+        "macronized": "manuscrīptum",
+        "grammar": "-ī, n.",
+        "citation": "1784 DUCRUE 255; 1843 TRAPPEN 7",
+        "notes": ""
+      },
+      {
+        "latin": "codex",
+        "macronized": "cōdex",
+        "grammar": "-icis, m.",
+        "citation": "Septuagint, \"Praef.\"; 1794 RUIZ vii; HASE v",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "map",
+    "domains": [
+      "book",
+      "geography",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "tabula geographica",
+        "macronized": "tabula geographica",
+        "grammar": "gen.: tabulae, f., geographicae",
+        "citation": "Ducange s.v. mappa mundi; EGGER R.A. 142",
+        "notes": ""
+      },
+      {
+        "latin": "mappa geographica",
+        "macronized": "mappa geographica",
+        "grammar": "",
+        "citation": "1843 TRAPPEN 46",
+        "notes": ""
+      },
+      {
+        "latin": "mappa",
+        "macronized": "mappa",
+        "grammar": "-ae, f.",
+        "citation": "1784 DUCRUE 234",
+        "notes": ""
+      },
+      {
+        "latin": "mappa mundi",
+        "macronized": "mappa mundi",
+        "grammar": "",
+        "citation": "Ducange; c.1300 MARCO POLO A 448",
+        "notes": ""
+      },
+      {
+        "latin": "tabula chorographica",
+        "macronized": "tabula chōrographica",
+        "grammar": "",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "chorographia",
+        "macronized": "chōrographia",
+        "grammar": "-ae, f.",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "paperback",
+    "domains": [
+      "book",
+      "paperback ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "liber chartâ contectus",
+        "macronized": "liber chartā contectus",
+        "grammar": "",
+        "citation": "HELFER",
+        "notes": "see also handbook"
+      }
+    ]
+  },
+  {
+    "headword": "handbook, small book, concise edition",
+    "domains": [
+      "book",
+      "paperback ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "enchiridium",
+        "macronized": "enchīridium",
+        "grammar": "-ī, n.",
+        "citation": "DIG.; VIVES Stud. pueril. 266; RABELAIS 945: \"libro ... in enchiridii formam redacto,\" of an in-16o; ERASMUS",
+        "notes": ""
+      },
+      {
+        "latin": "liber manualis",
+        "macronized": "liber manūālis",
+        "grammar": "",
+        "citation": "cf. Gesenius ix",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "appendix",
+    "domains": [
+      "book",
+      "parts",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "auctarium",
+        "macronized": "auctārium",
+        "grammar": "-ī, n.",
+        "citation": "PERUGINI, Concordata v; Index 86",
+        "notes": ""
+      },
+      {
+        "latin": "appendix",
+        "macronized": "appendix",
+        "grammar": "-icis, f.",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "parergon",
+        "macronized": "parergon",
+        "grammar": "-ī, n.",
+        "citation": "Thomas Vallaurius, “Historia Critica Litterarum Latinarum accedit parergon aliquot monumentorum latini sermonis vetustioris” 1850",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "chapter",
+    "domains": [
+      "book",
+      "parts",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "caput",
+        "macronized": "caput",
+        "grammar": "-itis, n.",
+        "citation": "CIC. Leg. 1, 21; CIC. Fam. 7, 22; Septuagint, \"Praef.,\" of a manuscript of the Septuagint: cum toto exemplari nulla capitum divisio sit.",
+        "notes": ""
+      },
+      {
+        "latin": "capitulum",
+        "macronized": "capitulum",
+        "grammar": "-ī, n.",
+        "citation": "TERT.; HIER.; DANTE Vulg. El. 329",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "dedicatory letter",
+    "domains": [
+      "book",
+      "parts",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "epistola nuncupatoria",
+        "macronized": "epistola nuncupātōria",
+        "grammar": "",
+        "citation": "RABELAIS 957",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "figure",
+    "domains": [
+      "book",
+      "parts",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "figura",
+        "macronized": "figūra",
+        "grammar": "-ae, f.",
+        "citation": "DANTE Aqua 470: ut patet in figura signata, of accompanying figure, marked with letters explained in text",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "index",
+    "domains": [
+      "book",
+      "parts",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "index rerum principalium",
+        "macronized": "index rērum prīncipālium",
+        "grammar": "gen.: indicis, m./f. [rērum prīncipālium]",
+        "citation": "Rabikauskas 3",
+        "notes": ""
+      },
+      {
+        "latin": "index rerum notabilium",
+        "macronized": "index rērum notābilium",
+        "grammar": "gen.: indicis, m./f. [rērum notābilium]",
+        "citation": "Rabikauskas 159",
+        "notes": ""
+      },
+      {
+        "latin": "index rerum et verborum",
+        "macronized": "index rērum et verbōrum",
+        "grammar": "gen.: indicis, m./f. [rērum et verbōrum]",
+        "citation": "Hase vi",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "table (in book), chart",
+    "domains": [
+      "book",
+      "parts",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "tabula",
+        "macronized": "tabula",
+        "grammar": "-ae, f.",
+        "citation": "1843 TRAPPEN 41; Pharm. Austr. xx",
+        "notes": ""
+      },
+      {
+        "latin": "tabella",
+        "macronized": "tabella",
+        "grammar": "-ae, f.",
+        "citation": "1843 TRAPPEN 40",
+        "notes": ""
+      },
+      {
+        "latin": "conspectus",
+        "macronized": "conspectus",
+        "grammar": "-ūs, m.",
+        "citation": "1843 TRAPPEN 45",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "table of contents",
+    "domains": [
+      "book",
+      "parts",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "rerum conspectus",
+        "macronized": "rērum conspectus",
+        "grammar": "gen.: [rērum] conspectūs, m. ",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "index synopticus",
+        "macronized": "index synopticus",
+        "grammar": "gen.: indicis synopticī",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "print",
+    "domains": [
+      "book",
+      "printing",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "typis imprimere",
+        "macronized": "typīs imprimere",
+        "grammar": "[typīs] , impressī, impressus",
+        "citation": "RABELAIS 944",
+        "notes": ""
+      },
+      {
+        "latin": "typis excudere",
+        "macronized": "typīs excūdere",
+        "grammar": "[typīs] , excūdī, excūsus",
+        "citation": "RABELAIS 944",
+        "notes": ""
+      },
+      {
+        "latin": "excudere",
+        "macronized": "excūdere",
+        "grammar": ", excūdī, excūsus",
+        "citation": "RABELAIS 942, 946: [librum] excudendum in exemplaria bis mille dedi.",
+        "notes": ""
+      },
+      {
+        "latin": "excudere",
+        "macronized": "excūdere",
+        "grammar": ", excūdī, excūsus",
+        "citation": "1571 MATTIOLI 110, of woodcut accomapnying text: musae imaginem ... excudi curavimus.",
+        "notes": ""
+      },
+      {
+        "latin": "imprimere",
+        "macronized": "imprimere",
+        "grammar": ", impressī, impressus",
+        "citation": "1652 TURS. 239: ratio imprimendorum librorum apud Germanos inventa, magno ingeniorum compendio ",
+        "notes": ""
+      },
+      {
+        "latin": "Liber sub prelo sudat",
+        "macronized": "Liber sub prēlō sūdat",
+        "grammar": "",
+        "citation": "",
+        "notes": "The book is now in print"
+      }
+    ]
+  },
+  {
+    "headword": "page-proof",
+    "domains": [
+      "book",
+      "printing",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "plagula",
+        "macronized": "plagula",
+        "grammar": "-ae, f.",
+        "citation": "ERASMUS; 1698 Hofmann vii: diligentiam maximam adhibui plagulis libri singulis accurate perspiciendis, ne lector typographiae vitiis haereret dubius.",
+        "notes": ""
+      },
+      {
+        "latin": "specimen typographicum",
+        "macronized": "specimen typogrāphicum",
+        "grammar": "gen.: speciminis, n. [typogrāphicum] ",
+        "citation": "Gesenius xi: in speciminibus typographicis castigandis",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "proofread, copy-edit",
+    "domains": [
+      "book",
+      "printing",
+      ""
+    ],
+    "terms": []
+  },
+  {
+    "headword": "proofreader",
+    "domains": [
+      "book",
+      "printing",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "corrector",
+        "macronized": "corrēctor",
+        "grammar": "-ōris, m.",
+        "citation": "1672 FRISIUS v: Incredibile dictu est quam hīc incuriā typographi simul et correctoris a verā lectione recessum sit longius.",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "printer (person who prints books)",
+    "domains": [
+      "book",
+      "printing",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "typographus",
+        "macronized": "typogrāphus",
+        "grammar": "-ī, m.",
+        "citation": "1652 TURS. 356; 1672 FRISIUS v: Incredibile dictu est quam hīc incuriā typographi simul et correctoris a verā lectione recessum sit longius",
+        "notes": ""
+      },
+      {
+        "latin": "chalcographus",
+        "macronized": "chalcographus",
+        "grammar": "-ī, m.",
+        "citation": "HOVEN; RABELAIS 945",
+        "notes": ""
+      },
+      {
+        "latin": "(librum) excudendum dare",
+        "macronized": "(librum) excūdendum dāre",
+        "grammar": "",
+        "citation": "RABELAIS 946",
+        "notes": ""
+      },
+      {
+        "latin": "(librum) prelo mandare",
+        "macronized": "(librum) prēlō mandāre",
+        "grammar": "",
+        "citation": "1652 TURS. Elogium Auctoris",
+        "notes": "send (a book) to the printer"
+      }
+    ]
+  },
+  {
+    "headword": "printing",
+    "domains": [
+      "book",
+      "printing",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "typographia",
+        "macronized": "typogrāphia",
+        "grammar": "-ae, f.",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "chalcographia",
+        "macronized": "chalcogrāphia",
+        "grammar": "-ae, f.",
+        "citation": "HOVEN",
+        "notes": ""
+      },
+      {
+        "latin": "typographicus",
+        "macronized": "typogrāphicus",
+        "grammar": ", -a, -um",
+        "citation": "adj.",
+        "notes": ""
+      },
+      {
+        "latin": "chalcographicus",
+        "macronized": "chalcogrāphicus",
+        "grammar": ", -a, -um",
+        "citation": "adj.",
+        "notes": ""
+      },
+      {
+        "latin": "post inventam typographiam",
+        "macronized": "post inventam typographiam",
+        "grammar": "",
+        "citation": "1811 PALLAS xvii",
+        "notes": "since the invention of the printing press"
+      }
+    ]
+  },
+  {
+    "headword": "printing press",
+    "domains": [
+      "book",
+      "printing",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "prelum (typographicum) ",
+        "macronized": "prēlum (typogrāphicum) ",
+        "grammar": "gen.: prēlī, n. (typogrāphicī)",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "typographicum",
+        "macronized": "typogrāphicum",
+        "grammar": "-ī, n. ",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "a prelo madidus",
+        "macronized": "a prelō madidus",
+        "grammar": "",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "typesetter",
+    "domains": [
+      "book",
+      "printing",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "typotheta",
+        "macronized": "typothēta",
+        "grammar": "-ae, m.",
+        "citation": "EGGER L.D.I. 6",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "publication (act of publishing)",
+    "domains": [
+      "book",
+      "publication ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "editio",
+        "macronized": "ēditiō",
+        "grammar": "-ōnis, f.",
+        "citation": "Sen.; Quint.; 1794 RUIZ iv: Philippo IV editionis impensas erogante; 1794 RUIZ xv: Quaecumque ad manuscriptorum editionem opus essent, diligenter apparanda persuasit",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "publish",
+    "domains": [
+      "book",
+      "publication ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "edere",
+        "macronized": "ēdere",
+        "grammar": ", ēdidī, ēdidī, ēditus ",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "in lucem edere",
+        "macronized": "in lūcem ēdere",
+        "grammar": "[in lūcem] , ēdidī, ēditus ",
+        "citation": "1891 VELENOVSKÝ i",
+        "notes": ""
+      },
+      {
+        "latin": "divulgare",
+        "macronized": "dīvulgāre",
+        "grammar": ", -āvī, ātus ",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "evulgare",
+        "macronized": "ēvulgāre",
+        "grammar": ", āvi, ātus ",
+        "citation": "1794 RUIZ v",
+        "notes": ""
+      },
+      {
+        "latin": "publici iuris facere",
+        "macronized": "publicī iūris facere",
+        "grammar": "[publicī iūris] , fēci, factus",
+        "citation": "1784 THUNBERG xxvi",
+        "notes": ""
+      },
+      {
+        "latin": "foras dare",
+        "macronized": "fōrās dāre",
+        "grammar": "[forās] , dedī, dātus",
+        "citation": "HASE v",
+        "notes": ""
+      },
+      {
+        "latin": "prodire in lucem ",
+        "macronized": "prōdīre in lūcem ",
+        "grammar": ", -prōdiī/prōdīvī, prōditus [in lucem]",
+        "citation": "",
+        "notes": "be published "
+      },
+      {
+        "latin": "prodire ",
+        "macronized": "prodīre",
+        "grammar": ", -prōdiī/prōdīvī, prōditus",
+        "citation": "1652 TURS. 356.; 1794 RUIZ iv.",
+        "notes": "be published "
+      },
+      {
+        "latin": "typis mandare",
+        "macronized": "typīs mandāre ",
+        "grammar": "[typīs] , -āvī, -ātus",
+        "citation": "1652 TURS. 301",
+        "notes": " send to the publisher, have published"
+      }
+    ]
+  },
+  {
+    "headword": "publisher, publishing house",
+    "domains": [
+      "book",
+      "publication ",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "bibliopolium",
+        "macronized": "bibliopōlium",
+        "grammar": "-ī, n.",
+        "citation": "1672 FRISIUS vi, on the Venice printing and publishing houses of La Nou and the Giunta family: Huius rei gratia ... carissimo fratri meo Ioanni La Nou, eruditorum omnium fautori eximio, et bibliopolae apud Venetos non postremo, debetur, cuius erga bonas artes affectu factum est ut non minimam typographiae et bibliopolii Juntarum partem ... impensis haud sane levibus suam fecerit.",
+        "notes": ""
+      },
+      {
+        "latin": "taberna libraria editoria",
+        "macronized": "taberna librāria ēditōria",
+        "grammar": "gen.: tabernae, f., librāriae ēditōriae",
+        "citation": "EGGER S.L. 25",
+        "notes": ""
+      },
+      {
+        "latin": "societas editoria",
+        "macronized": "societās ēditōria",
+        "grammar": "gen.: societātis, f., ēditōriae",
+        "citation": "EGGER S.L. 24-25",
+        "notes": ""
+      },
+      {
+        "latin": "domus editoria",
+        "macronized": "domus ēditōria",
+        "grammar": "gen.: domūs, f., ēditōriae",
+        "citation": "EGGER S.L. 24-25",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "read",
+    "domains": [
+      "book",
+      "read",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "legere",
+        "macronized": "legere",
+        "grammar": ", lēgi, lectus",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "perlegere",
+        "macronized": "perlegere",
+        "grammar": ", perlēgi, perlectus",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "lectitare",
+        "macronized": "lectitāre",
+        "grammar": ", -āvī, ātus ",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "evolvere",
+        "macronized": "ēvolvere",
+        "grammar": ", ēvolvī, ēvolūtus",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "percurrere",
+        "macronized": "percurrere",
+        "grammar": ", percucurrī/percurrī, percursus",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "lecturire",
+        "macronized": "lectūrīre",
+        "grammar": ", ",
+        "citation": "Sid.",
+        "notes": "want to read"
+      }
+    ]
+  },
+  {
+    "headword": "skim (a book, article)",
+    "domains": [
+      "book",
+      "read",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "strictim legere",
+        "macronized": "strictim legere",
+        "grammar": "[strictim] , lēgi, lectus",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "vellicatim legere",
+        "macronized": "vellicātim legere",
+        "grammar": "[vellicātim] , lēgi, lectus",
+        "citation": "RABELAIS 936",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "speed-reading",
+    "domains": [
+      "book",
+      "read",
+      ""
+    ],
+    "terms": []
+  },
+  {
+    "headword": "reprint (vb.), republish",
+    "domains": [
+      "book",
+      "publication",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "repetere",
+        "macronized": "repetere",
+        "grammar": ", -īvī/iī, ītus",
+        "citation": "1698 HOFMANN v: in praefatione sua, quam ideo in hac alterā editione repetendam censui",
+        "notes": ""
+      },
+      {
+        "latin": "recudere",
+        "macronized": "recūdere",
+        "grammar": ", recūdi, recūsus",
+        "citation": "1726 WOLFF 8; 1784 THUNBERG xxvi: Herbarium ... primum impressum est in China, deinde in Iaponia aliquatenus nitidius recusum; 1794 RUIZ xx",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "review",
+    "domains": [
+      "book",
+      "review",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "existimatio",
+        "macronized": "existimātiō",
+        "grammar": "-ōnis, f.",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "review: critic",
+    "domains": [
+      "book",
+      "review",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "existimator",
+        "macronized": "existimātor",
+        "grammar": "-ōris, m.",
+        "citation": "CIC. Or. 112",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "title (of a book, article) ",
+    "domains": [
+      "book",
+      "title",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "titulus",
+        "macronized": "titulus",
+        "grammar": "-ī, m.",
+        "citation": "1540 VIVES Exer. 340",
+        "notes": ""
+      },
+      {
+        "latin": "inscriptio",
+        "macronized": "īnscrīptiō",
+        "grammar": "-ōnis, f.",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "lemma",
+        "macronized": "lemma",
+        "grammar": "-atis, n.",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "headword",
+    "domains": [
+      "book",
+      "title",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "lemma",
+        "macronized": "lemma",
+        "grammar": "-atis, n.",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "volume (book)",
+    "domains": [
+      "book",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "tomus",
+        "macronized": "tomus",
+        "grammar": "-ī, m.",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "volumen",
+        "macronized": "volūmen",
+        "grammar": "-inis, n.",
+        "citation": "1794 RUIZ vi; Hase 4; EGGER S.L. 24",
+        "notes": ""
+      }
+    ]
+  }
+]
