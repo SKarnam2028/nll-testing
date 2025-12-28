@@ -1304,5 +1304,330 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "headword": "address",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "inscriptio cursualis",
+        "macronized": "inscriptiō cursuālis",
+        "grammar": "gen.: inscriptiōnis cursuālis",
+        "citation": "EGGER S.L. 75; EGGER L.D.I. 102",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "box",
+    "domains": [
+      "mail",
+      "domestic",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "loculus",
+        "macronized": "loculus",
+        "grammar": "-ī, m.",
+        "citation": "",
+        "notes": "one of set of compartments for receving mail"
+      },
+      {
+        "latin": "loculamentum",
+        "macronized": "loculamentum",
+        "grammar": "-ī, n.",
+        "citation": "",
+        "notes": ""
+      },
+      {
+        "latin": "columbarium",
+        "macronized": "columbārium",
+        "grammar": "-ī, n.",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "courier, messenger",
+    "domains": [
+      "mail",
+      "transport",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "cursor",
+        "macronized": "cursor",
+        "grammar": "-ōris, m.",
+        "citation": "NEP.; PLIN.; SUET.; 1652 TURS. 437",
+        "notes": ""
+      },
+      {
+        "latin": "veredarius",
+        "macronized": "verēdārius",
+        "grammar": "-ī, m.",
+        "citation": "Vulg.; HIER.",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "deliver (a letter)",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "(epistulam) perferre",
+        "macronized": "(epistulam) perferre",
+        "grammar": "(epistulam) , pertulī, perlātus ",
+        "citation": "EGGER L.D.I. 102",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "envelope",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "involucrum",
+        "macronized": "involūcrum",
+        "grammar": "-ī, n.",
+        "citation": "EGGER L.D.I. 102",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "forward (mail, a letter or message)",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "perferre",
+        "macronized": "perferre",
+        "grammar": ", pertulī, perlātus ",
+        "citation": "SEN. Ep. 3, 1: epistulas ad me perferendas tradidisti ... amico tuo, \"you gave your friend letters to forward to me\"",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "mail (a letter), post (a letter)",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "(epistulam) mittere",
+        "macronized": "(epistulam) mittere",
+        "grammar": "(epistulam) , mīsī, missus",
+        "citation": "EGGER L.D.I. 102",
+        "notes": ""
+      },
+      {
+        "latin": "(epistulam) cursui publico tradere",
+        "macronized": "(epistulam) cursuī pūblicō trādere",
+        "grammar": "(epistulam) [cursuī pūblicō] , trādidī, trāditus",
+        "citation": "EGGER L.D.I. 102",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "mail box",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "cursus publici capsula",
+        "macronized": "cursūs pūblicī capsula",
+        "grammar": "gen.: [cursūs pūblicī] capsulae, f.",
+        "citation": "EGGER L.D.I. 102",
+        "notes": ""
+      },
+      {
+        "latin": "arca cursualis",
+        "macronized": "arca cursuālis",
+        "grammar": "gen.: arcae, f., cursuālis",
+        "citation": "",
+        "notes": "v. capsa"
+      }
+    ]
+  },
+  {
+    "headword": "mail, post (subst.) ",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "cursus publicus",
+        "macronized": "cursus pūblicus",
+        "grammar": "gen.: cursūs pūblicī, m. ",
+        "citation": "Cod. Just. 12, 50; EGGER L.D.I. 102",
+        "notes": ""
+      },
+      {
+        "latin": "curusalis ",
+        "macronized": "curusālis ",
+        "grammar": ", -is, -e",
+        "citation": "",
+        "notes": "adj. "
+      }
+    ]
+  },
+  {
+    "headword": "mailman, mail carrier, postman, postal deliverer",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "tabellarius",
+        "macronized": "tabellārius",
+        "grammar": "-ī, m.",
+        "citation": "EGGER L.D.I. 102",
+        "notes": ""
+      },
+      {
+        "latin": "veredarius",
+        "macronized": "verēdārius",
+        "grammar": "-ī, m.",
+        "citation": "SID. Vulg. ERASMUS Coll. 160",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "mailman: courier",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "cursor",
+        "macronized": "cursor",
+        "grammar": "-ōris, m.",
+        "citation": "Nep. Milit. 4, 3: Cursorem eius generis qui hemerodromoe vocantur Lacedaemonem miserunt. Suet. Ner. 49, of the courier the senate sent to read Nero his death sentence. Mart. 3, 100: Cursorem sextâ tibi, Rufe, remisimus horâ, carmina quem madidum nostra tulisse reor.",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "post office",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "cursus publici diribitorium",
+        "macronized": "cursūs pūblicī diribitorium",
+        "grammar": "gen.: [cursūs pūblicī] diribitoriī, n. ",
+        "citation": "EGGER S.L. 40; EGGER L.D.I. 102",
+        "notes": ""
+      },
+      {
+        "latin": "diribitorium cursuale",
+        "macronized": "diribitorium cursuāle",
+        "grammar": "gen.: diribitoriī, n., cursuālis",
+        "citation": "",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "post, mail",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "cursus publicus",
+        "macronized": "cursus pūblicus",
+        "grammar": "gen.: cursūs, m., pūblicī",
+        "citation": "EGGER S.L. 31",
+        "notes": "subst. "
+      }
+    ]
+  },
+  {
+    "headword": "postcard",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "chartula cursualis",
+        "macronized": "chartula cursuālis",
+        "grammar": "gen.: chartulae cursuālis",
+        "citation": "EGGER L.D.I. 102",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "headword": "stamp (postage)",
+    "domains": [
+      "mail",
+      "",
+      ""
+    ],
+    "terms": [
+      {
+        "latin": "pittacium cursuale",
+        "macronized": "pittacium cursuāle",
+        "grammar": "gen.: pittaciī, n., cursuālis",
+        "citation": "EGGER L.D.I. 102",
+        "notes": ""
+      },
+      {
+        "latin": "pittacium vehiculare",
+        "macronized": "pittacium vehiculāre",
+        "grammar": "[pittacium] , -āre, -āvī, -ātus",
+        "citation": "",
+        "notes": "to stamp (v.) "
+      },
+      {
+        "latin": "epistulam pittacio vehiculari munire ",
+        "macronized": "epistulam pittaciō vehiculārī mūnīre ",
+        "grammar": "[epistulam pittaciō vehiculārī] , -īvī, ītus",
+        "citation": "Bacci, OIE 329",
+        "notes": ""
+      }
+    ]
   }
 ]
