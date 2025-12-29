@@ -3,7 +3,7 @@ name: Update Lexicon from Google Sheets
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"   # runs every hour
+    - cron: "0 0 * * 0"   # runs every week
 
 jobs:
   build:
