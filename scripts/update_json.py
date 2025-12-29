@@ -1,6 +1,6 @@
 import csv, json, requests, sys
 
-CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6bqRAX_vzRAkaQh6sk4dmebL7eEl0DlFmzul5reiWK29Pkjs1yjfyKkc2zUgDqTmNCB8272upK-2H/pub?output=csv"
+CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5RQ3Hqpg2LnqBp2-GrB5KEzLpZzZNWloXIAI6HRpz6hQtM2c4A6cqtFGheV6f0BEpJO8x8C_4CkL7/pub?gid=699259205&single=true&output=csv"
 
 r = requests.get(CSV_URL)
 r.encoding = "utf-8"
