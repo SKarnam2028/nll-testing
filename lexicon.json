@@ -461,7 +461,15 @@
       "brochure",
       ""
     ],
-    "terms": []
+    "terms": [
+      {
+        "latin": "libellus",
+        "macronized": "libellulus",
+        "grammar": "-ī, m.",
+        "citation": "MART. Cap. 3, § 289.",
+        "notes": ""
+      }
+    ]
   },
   {
     "headword": "leaflet",
@@ -490,15 +498,15 @@
     "terms": [
       {
         "latin": "censura afficere",
-        "macronized": "censūra afficere",
-        "grammar": "[censūra] , affēcī, affectus",
+        "macronized": "censūrā afficere",
+        "grammar": "[censūrā] , affēcī, affectus",
         "citation": "1652 TURS. 338: origo huius velitationis ex libris censura affectis",
         "notes": ""
       },
       {
         "latin": "censura notare",
         "macronized": "censūrā notāre",
-        "grammar": "",
+        "grammar": "[censūrā] , -āvī, -ātus ",
         "citation": "1652 TURS. 342: Emundus Richer, qui ob libellum de ecclesiastica et politica potestate censura notatus fuerat; 356: duo libri ... gravi censura notati sunt",
         "notes": ""
       }
@@ -1624,7 +1632,7 @@
       {
         "latin": "volumen",
         "macronized": "volūmen",
-        "grammar": "-inis, n.",
+        "grammar": "-īnis, n.",
         "citation": "1794 RUIZ vi; Hase 4; EGGER S.L. 24",
         "notes": ""
       }
@@ -2082,8 +2090,8 @@
       {
         "latin": "specimen",
         "macronized": "specimen",
-        "grammar": "-inis, n. ",
-        "citation": "1752 STUMPF 2nd letter of commendation (in back of book), praising a doctoral dissertation: ex praestantissimo doctrinae tuae specimine, quod iam ... defensum is. 1843 TRAPPEN title page: Specimen historico-medicum de coffea quod ... pro gradu doctoratus ... eruditorum examini submittit Johannes Everhardus van der Trappen.\"  1843 TRAPPEN praef.: Dicere possem ... de molesta quae tunc civibus academicis incumbit lex, ut quoddam specimen, acquisitarum doctrinarum testimonium, praestent.",
+        "grammar": "-īnis, n. ",
+        "citation": "1752 STUMPF 2nd letter of commendation (in back of book), praising a doctoral dissertation: ex praestantissimo doctrinae tuae specimine, quod iam ... defensum is; 1843 TRAPPEN title page: Specimen historico-medicum de coffea quod ... pro gradu doctoratus ... eruditorum examini submittit Johannes Everhardus van der Trappen; 1843 TRAPPEN praef.: Dicere possem ... de molesta quae tunc civibus academicis incumbit lex, ut quoddam specimen, acquisitarum doctrinarum testimonium, praestent.",
         "notes": "with doctrinae or other specifier"
       }
     ]
@@ -2151,7 +2159,7 @@
       {
         "latin": "specimen",
         "macronized": "specimen",
-        "grammar": "-inis, n. ",
+        "grammar": "-īnis, n. ",
         "citation": "",
         "notes": ""
       }
@@ -5615,7 +5623,7 @@
       {
         "latin": "suffimen",
         "macronized": "suffīmen",
-        "grammar": "-inis, n.",
+        "grammar": "-īnis, n.",
         "citation": "Ov.; 1843 TRAPPEN 91: de suffimine ex coffeae seminibus.",
         "notes": ""
       },
@@ -7707,14 +7715,14 @@
       {
         "latin": "engastrimythus",
         "macronized": "engastrimythus",
-        "grammar": "-i, m.",
+        "grammar": "-ī, m.",
         "citation": "1677 MAGRI; 1876 DUNGLISON 1096",
         "notes": "s. vv. engastrimyth and ventriloque.  Cf. Anc. Gr.  εγγαστρίμυθος"
       },
       {
         "latin": "gastriloquus",
         "macronized": "gastriloquus",
-        "grammar": "-i, m.",
+        "grammar": "-ī, m.",
         "citation": "",
         "notes": "Cf. 1876 DUNGLISON 1096 s. v. engastrimyth."
       }
@@ -7792,7 +7800,7 @@
       {
         "latin": "artifex",
         "macronized": "artifex",
-        "grammar": "-icis m.",
+        "grammar": "-īcis m.",
         "citation": "EGGER D.L. 11",
         "notes": ""
       },
@@ -9271,7 +9279,7 @@
       {
         "latin": "abscendentia",
         "macronized": "abscendentia",
-        "grammar": "-ium, n. pl.",
+        "grammar": "-īum, n. pl.",
         "citation": "VITR. 7, 11, of perspective painting, or scenographia: uti ... alia abscedentia, alia prominentia esse videantur",
         "notes": "part of a scene depicted as farther from viewer"
       }
@@ -9288,7 +9296,7 @@
       {
         "latin": "prominentia",
         "macronized": "prominentia",
-        "grammar": "-ium, n. pl.",
+        "grammar": "-īum, n. pl.",
         "citation": "VITR. 7, 11, of perspective painting, or scenographia: uti ... alia abscedentia, alia prominentia esse videantur",
         "notes": ""
       }
